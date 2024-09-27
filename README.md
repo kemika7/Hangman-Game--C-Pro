@@ -1,1 +1,1 @@
-# Hangman-Game--C-Pro
+# Hangman-Game-C++-Pro
